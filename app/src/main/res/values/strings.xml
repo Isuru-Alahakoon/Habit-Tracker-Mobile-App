@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Zenith Wellness</string>
+    <string name="title_habits">Habits</string>
+    <string name="title_mood">Journal</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- Habits Screen -->
+    <string name="habits_header">Your Daily Zen</string>
+    <string name="habits_progress">Today\'s Progress: %1$d%%</string>
+    <string name="add_habit">Add a New Habit</string>
+    <string name="edit_habit">Edit Habit</string>
+    <string name="habit_name_hint">e.g., Meditate for 10 minutes</string>
+    <string name="delete_habit_confirmation">Delete this habit permanently?</string>
+
+    <!-- Mood Screen -->
+    <string name="mood_header">Your Mood Journal</string>
+    <string name="mood_trend_chart_title">Mood Trend (Last 7 Days)</string>
+    <string name="log_your_mood">Log Your Mood</string>
+    <string name="how_are_you_feeling">How are you feeling?</string>
+    <string name="optional_notes">Add a note (optional)...</string>
+    <string name="mood_logged_success">Mood entry saved!</string>
+    <string name="great_emoji">😊</string>
+    <string name="okay_emoji">😐</string>
+    <string name="sad_emoji">😢</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_header">App Settings</string>
+    <string name="hydration_reminder">Hydration Reminder</string>
+    <string name="reminder_interval_minutes">Reminder Interval (in minutes)</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="reminder_set_toast">Hydration reminder is set for every %1$d minutes.</string>
+    <string name="share_mood_summary">Share Mood Summary</string>
+    <string name="mood_summary_title">My Recent Moods</string>
+    <string name="no_moods_to_share">Log a mood to share your summary.</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Hydration Reminders</string>
+    <string name="notification_channel_description">Reminders to drink water throughout the day.</string>
+    <string name="hydration_notification_title">Time for a water break!</string>
+    <string name="hydration_notification_text">Staying hydrated is key to feeling great. ✨</string>
+
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

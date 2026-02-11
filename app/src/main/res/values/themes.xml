@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ZenithWellness" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/zen_green_primary</item>
+        <item name="colorPrimaryVariant">@color/zen_green_dark</item>
+        <item name="colorOnPrimary">@color/zen_surface</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/zen_green_light</item>
+        <item name="colorSecondaryVariant">@color/zen_green_primary</item>
+        <item name="colorOnSecondary">@color/zen_surface</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/zen_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Background colors -->
+        <item name="android:windowBackground">@color/zen_background</item>
+        <item name="colorSurface">@color/zen_surface</item>
+    </style>
+
+    <style name="Theme.ZenithWellness" parent="Base.Theme.ZenithWellness" />
+</resources>

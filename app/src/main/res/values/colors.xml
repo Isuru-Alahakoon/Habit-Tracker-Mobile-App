@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Zenith Wellness Color Palette -->
+    <color name="zen_green_dark">#00695C</color> <!-- Primary Dark -->
+    <color name="zen_green_primary">#00897B</color> <!-- Primary -->
+    <color name="zen_green_light">#4DB6AC</color> <!-- Accent -->
+    <color name="zen_background">#F5F5F5</color> <!-- Light Background -->
+    <color name="zen_surface">#FFFFFF</color> <!-- Card Background -->
+    <color name="zen_text_primary">#263238</color> <!-- Dark Text -->
+    <color name="zen_text_secondary">#546E7A</color> <!-- Lighter Text -->
+</resources>
