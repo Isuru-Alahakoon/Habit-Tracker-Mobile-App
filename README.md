@@ -146,14 +146,7 @@ Example:
 ✔ Recycler/List UI patterns  
 ✔ Material Design principles  
 
----
 
-## 👨‍💻 Author
-**Tharusha**
 
----
-
-## 📄 License
-This project is developed for academic purposes.
 
 
