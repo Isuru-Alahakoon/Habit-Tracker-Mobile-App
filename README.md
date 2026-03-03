@@ -125,16 +125,6 @@ are stored using **SharedPreferences**.
 
 ---
 
-## 📷 Screenshots
-_Add your emulator or device screenshots here._
-
-Example:
-- Home Screen  
-- Habit Tracker  
-- Mood Journal  
-- Reminder Settings  
-
----
 
 ## 🧠 Concepts Demonstrated
 
@@ -145,6 +135,7 @@ Example:
 ✔ State management  
 ✔ Recycler/List UI patterns  
 ✔ Material Design principles  
+
 
 
 
